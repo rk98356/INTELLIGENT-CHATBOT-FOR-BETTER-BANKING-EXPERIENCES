@@ -1,5 +1,5 @@
 # INTELLIGENT-CHATBOT-FOR-BETTER-BANKING-EXPERIENCES
-In this project report, we examine how to make a self-learning chatbot utilizing
+In this project, we examine how to make a self-learning chatbot utilizing
 IBM Watson as an AI Engine. We start by presenting IBM Watson and putting it with
 regards to self-learning chatbots. Self-learning implies that it needn't bother with
 outside help with regards to preparing the framework. The framework is intended for
